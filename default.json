@@ -1,0 +1,37 @@
+{
+    "appear": {
+        "Theme": "dark",
+        "Editortheme": "Dark",
+        "Fontfamily": "Fira code",
+        "Fontsize": 14,
+        "Sidebar": 220
+    },
+    "editor": {
+        "Tabsize": 4,
+        "Space": false,
+        "Wordwrap": false,
+        "Fillbracket": false,
+        "Formatsave": false,
+        "Trim": false,
+        "Cursorstyle": "line",
+        "Cursorblink": true
+    },
+    "terminal": {
+        "Shell": "auto",
+        "Fontsize": 14,
+        "Theme": "dark",
+        "Cursorblink": true,
+        "Copyonselect": false,
+        "rightclick": true
+    },
+    "app": {
+        "Autotime": 3,
+        "Restore": true,
+        "Confirm": true,
+        "Update": true,
+        "Tele": "on"
+    },
+    "key": {
+        
+    }
+}

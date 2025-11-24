@@ -1,0 +1,42 @@
+<div id="target">Right-click me</div>
+
+<div id="menu" style="display:none; position:absolute; background:#eee; border:1px solid #ccc; padding:10px;">
+  <button id="btn1">Action 1</button><br>
+  <button id="btn2">Action 2</button><br>
+  <button id="btn3">Action 3</button>
+</div>
+
+
+<script>
+    const target = document.getElementById("target");
+    const menu = document.getElementById("menu");
+
+    // Show menu on right-click
+    target.addEventListener("contextmenu", (e) => {
+        e.preventDefault();
+        menu.style.display = "block";
+        menu.style.left = `${e.pageX}px`;
+        menu.style.top = `${e.pageY}px`;
+    });
+
+    // Hide menu on outside click
+    document.addEventListener("click", (e) => {
+        if (!menu.contains(e.target)) {
+            menu.style.display = "none";
+        }
+    });
+
+    // Button actions
+    document.getElementById("btn1").onclick = () => {
+        alert("You clicked Action 1");
+    };
+
+    document.getElementById("btn2").onclick = () => {
+        alert("You clicked Action 2");
+    };
+
+    document.getElementById("btn3").onclick = () => {
+        alert("You clicked Action 3");
+    };
+
+</script>

@@ -1,0 +1,142 @@
+ $4 $  $here
+ $5 $  $echo "hello"
+ $6 $extension  $text
+ $7 $  $here
+ $8 $  $Lets get to coding!
+ $9 $extension  $python
+ $10 $  $here
+ $11 $  $echo "hello"
+ $12 $extension  $text
+ $13 $  $here
+ $14 $  $[Desktop Entry]
+Name=
+Comment=
+Keywords=
+Exec=
+TryExec=
+Terminal=false
+Icon=
+Type=
+Categories=
+MimeType=
+StartupNotify=false
+StartupWMClass=
+OnlyShowIn=
+Actions=
+
+ $15 $extension  $text
+ $16 $Switching to tab:  $2
+ $17 $  $here
+ $18 $  $Write anything here then copy it to your many project (anytime, anywhere) by writing
+ notes.bring('NewNote')
+ $19 $extension  $text
+ $20 $Switching to tab:  $1
+ $21 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $22 $  $here
+ $23 $  $echo "hello"
+ $24 $extension  $text
+ $1 $successfully gave /home/nonedude/Downloads/Test  $
+ $2 $Sent /home/nonedude/Downloads/Test  $
+ $3 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $4 $  $here
+ $5 $  $Lets get to coding!
+ $6 $extension  $python
+ $7 $  $here
+ $8 $  $Lets get to coding!
+ $9 $extension  $python
+ $10 $  $here
+ $11 $  $Lets get to coding!
+ $12 $extension  $python
+ $13 $  $here
+ $14 $  $echo "hello"
+ $15 $extension  $text
+ $16 $  $here
+ $17 $  $Lets get to coding!
+ $18 $extension  $python
+ $19 $successfully gave /home/nonedude/Downloads/Test  $
+ $20 $Sent /home/nonedude/Downloads/Test  $
+ $21 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $22 $  $here
+ $23 $  $echo "hello"
+ $24 $extension  $text
+ $25 $  $here
+ $26 $  $Lets get to coding!
+ $27 $extension  $python
+ $28 $  $here
+ $29 $  $echo "hello"
+ $30 $extension  $text
+ $31 $  $here
+ $32 $  $Lets get to coding!
+ $33 $extension  $python
+ $34 $Switching to tab:  $2
+ $35 $Switching to tab:  $1
+ $36 $Switching to tab:  $2
+ $37 $  $here
+ $38 $  $Write anything here then copy it to your many project (anytime, anywhere) by writing
+ notes.bring('NewNote(1)')
+ $39 $extension  $text
+ $40 $Switching to tab:  $3
+ $41 $  $here
+ $42 $  $Use the syntax
+function() | description
+to make your dictionaries then insert them for example
+print() | to output
+then you can use notes.info(NewDict) to get the dicts
+ $43 $extension  $text
+ $44 $Switching to tab:  $4
+ $45 $Switching to tab:  $5
+ $46 $Switching to tab:  $1
+ $47 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $48 $Switching to tab:  $2
+ $49 $Switching to tab:  $3
+ $50 $Switching to tab:  $4
+ $51 $Switching to tab:  $5
+ $52 $Switching to tab:  $6
+ $53 $ReferenceError: init_terminal is not defined  $while switching tabs
+ $54 $Switching to tab:  $5
+ $55 $Switching to tab:  $4
+ $56 $Switching to tab:  $3
+ $57 $Switching to tab:  $4
+ $58 $Switching to tab:  $3
+ $59 $Switching to tab:  $6
+ $60 $ReferenceError: init_terminal is not defined  $while switching tabs
+ $61 $Switching to tab:  $5
+ $62 $Switching to tab:  $4
+ $63 $Switching to tab:  $5
+ $64 $Switching to tab:  $6
+ $65 $ReferenceError: init_terminal is not defined  $while switching tabs
+ $66 $Switching to tab:  $1
+ $67 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $1 $successfully gave /home/nonedude/Downloads/Test  $
+ $2 $Sent /home/nonedude/Downloads/Test  $
+ $3 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $4 $Switching to tab:  $4
+ $5 $Switching to tab:  $3
+ $6 $Switching to tab:  $6
+ $7 $successfully gave /home/nonedude/Downloads/Test  $
+ $8 $Sent /home/nonedude/Downloads/Test  $
+ $9 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $10 $Switching to tab:  $3
+ $11 $Switching to tab:  $4
+ $12 $Switching to tab:  $5
+ $13 $Switching to tab:  $6
+ $14 $successfully gave /home/nonedude/Downloads/Test  $
+ $15 $Sent /home/nonedude/Downloads/Test  $
+ $16 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $17 $Switching to tab:  $6
+ $18 $Switching to tab:  $5
+ $19 $Switching to tab:  $4
+ $20 $successfully gave /home/nonedude/Downloads/Test  $
+ $21 $Sent /home/nonedude/Downloads/Test  $
+ $22 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $23 $Switching to tab:  $4
+ $24 $Switching to tab:  $6
+ $25 $Switching to tab:  $7
+ $26 $Switching to tab:  $6
+ $1 $successfully gave /home/nonedude/Downloads/Test  $
+ $2 $Sent /home/nonedude/Downloads/Test  $
+ $3 $sent dicts  $[{'name': 'Empty Desktop File.desktop', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Desktop File.desktop'}, {'name': 'Empty File', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty File'}, {'name': 'Myfile.py', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Myfile.py'}, {'name': 'mind', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/mind'}, {'name': 'load', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/load'}, {'name': 'loaf', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/loaf'}, {'name': 'Empty Bash (2)', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash (2)'}, {'name': 'Empty Bash', 'type': 'file', 'path': '/home/nonedude/Downloads/Test/Empty Bash'}]
+ $4 $Switching to tab:  $6
+ $5 $Switching to tab:  $5
+ $6 $Switching to tab:  $4
+ $7 $Switching to tab:  $6
